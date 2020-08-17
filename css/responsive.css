@@ -1,0 +1,321 @@
+/* XL-Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* LG-Normal desktop, Laptop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.logo img {
+	width: 100%;
+}
+.single-cta {
+	margin-left: 0;
+}
+.header-btn {
+	margin-right: 0;
+}
+.header-btn a {
+	padding: 20px 20px;
+}
+.cta-icon {
+	display: none;
+}
+.cta-text {
+	padding-left: 45px;
+}
+.main-menu ul li {
+	margin-right: 28px;
+}
+.header-social-icon {
+	margin-left: 57px;
+}
+.header-social-icon a {
+	margin-left: 10px;
+}
+.slider-text h2 {
+	font-size: 60px;
+}
+.slider-text p {
+	font-size: 18px;
+}
+.slider-thumb {
+	margin-left: -317px;
+	margin-top: 95px;
+}
+.tab-item ul li {
+    padding: 25px 111px;
+}
+.search-form input {
+	width: 19%;
+	margin-right: 15px;
+}
+.work-area .section-title {
+	padding-bottom: 30px;
+}
+.single-work {
+	padding: 25px 60px;
+	margin-top: 30px;
+}
+.service-img img {
+	margin-top: -55px;
+	padding-left: 45px;
+    width: 100%;
+    height: 100%;
+}
+.services-text h4 {
+	font-size: 17px;
+}
+.services-text p {
+	margin-bottom: 8px;
+}
+.services-list .btn {
+	margin-top: 15px;
+}
+.single-fun-act {
+	margin-right: 0;
+}
+.fun-text {
+	padding-left: 15px;
+}
+.buses-serarch-form label {
+	margin-left: 5px;
+}
+.buses-serarch-form input {
+	width: 100px;
+	margin-right: 10px;
+}
+.buses-serarch-form select {
+	padding: 0 10px;
+}
+.apps-content .section-title h3 {
+    font-size: 38px;
+}
+.apps-logo img {
+    width: 200px;
+}
+.mobile-apps img {
+	padding-left: 95px;
+}
+.question-content .card-header h5 a {
+	font-size: 14px;
+}
+.faq-img img {
+	width: 110%;
+	height: 515px;
+}
+.safe-text h2 {
+	font-size: 30px;
+}
+
+}
+
+ 
+/* MD-Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo img {
+        width: 175%;
+    }
+    .header-cta {
+        margin-left: 50px;
+    }
+    .single-cta {
+        margin-left: 23px;
+    }
+    .cta-text {
+        padding-left: 0px;
+    }
+    .cta-icon {
+        display: none;
+    }
+    .main-menu ul li {
+        margin-right: 26px;
+    }
+    .slider-text h2 {
+        font-size: 70px;
+    }
+    .slider-thumb {
+        display: none;
+    }
+    .tab-item ul li {
+        padding: 25px 71px;
+    }
+    .search-form input {
+        width: 100%;
+        margin-bottom: 20px;
+        font-size: 17px;
+    }
+    .search-form .btn {
+        width: 100%;
+    }
+    .single-work {
+        margin-bottom: 30px;
+    }
+    .service-img {
+        display: none;
+    }
+    .single-fun-act {
+        margin-right: 0;
+    }
+    .fun-icon i {
+        font-size: 30px;
+        margin-top: 13px;
+    }
+    .fun-text {
+        padding-left: 15px;
+    }
+    .fun-text span {
+        font-size: 15px;
+    }
+    .fun-text h4 {
+        font-size: 25px;
+        margin: 0;
+    }
+    .buses-serarch-form input {
+        width: 133px;
+    }
+    .buses-serarch-form label {
+        display: none;
+    }
+    .mobile-apps {
+        display: none;
+    }
+    .faq-img {
+        display: none;
+    }
+    .safe-text h2 {
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+    .copyright-text p {
+        font-size: 15px;
+    }
+    .footer-bottom-menu ul li {
+        float: left;
+        margin-left: 35px;
+    }
+    .footer-area {
+        padding-bottom: 80px;
+    }
+    .footer-wedget {
+        margin-bottom: 45px;
+    }
+
+}
+
+ 
+/* SM-small mobile :320px. */
+@media (max-width: 767px) {
+    .single-cta {
+        padding-right: 15px;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .header-btn {
+        margin-top: 25px;
+    }
+    .header-social-icon {
+        display: none;
+    }
+    .slider-text h2 {
+        font-size: 45px;
+    }
+    .slider-text h2.cd-headline span {
+        font-size: 45px;
+    }
+    .slick-slide img {
+        display: none;
+    }
+    .header-btn {
+        margin-top: 25px;
+        margin-left: 0;
+        margin-bottom: 30px;
+    }
+    .tab-item ul li {
+        padding: 25px 100px;
+        text-align: center;
+        width: 100%;
+    }
+    .search-form input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .search-form .btn {
+        width: 100%;
+    }
+    .single-work {
+        margin-bottom: 30px;
+    }
+    .service-img {
+        display: none;
+    }
+    .fun-list {
+        display: none;
+    }
+    .video-bg {
+        margin-top: 120px;
+    }
+    .fun-act-area {
+        height: 380px;
+    }
+    .buses-serarch-form input {
+        width: 100%;
+    }
+    .buses-serarch-form select {
+        width: 100%;
+    }
+    .buses-serarch-form label {
+        margin-top: 20px;
+    }
+    .apps-content .section-title h3 {
+        font-size: 35px;
+    }
+    .mobile-apps {
+        display: none;
+    }
+    .apps-content .section-title span {
+        display: none;
+    }
+    .apps-logo img {
+        height: 45px;
+        width: 115px;
+    }
+    .safe-text h2 {
+        margin-bottom: 25px;
+    }
+    .footer-area {
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .footer-wedget {
+        margin-top: 50px;
+        padding-left: 20px;
+    }
+    .usefull-menu {
+        margin-left: 0;
+    }
+    .footer-bottom-menu ul li {
+        float: left;
+        margin-left: 0;
+    }
+    .footer-bottom-menu ul li a {
+        padding: 0 7px;
+    }
+    .mean-container a.meanmenu-reveal {
+        top: -368px;
+    }
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.mean-container a.meanmenu-reveal {
+	top: -300px;
+}
+.tab-item ul li {
+	padding: 25px 26px;
+}
+ 
+}
